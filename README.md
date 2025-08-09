@@ -32,7 +32,7 @@ For more details about the official CoCalc service and documentation:
 - [CoCalc Website](https://cocalc.com/index.html)
 - [CoCalc User Manual](https://doc.cocalc.com/)
 - [Official GitHub Repository](https://github.com/sagemathinc/cocalc)
-
+- [ReadMe at the time of fork](https://github.com/ninadpchaudhari/opencalc/blob/c1a9ae258c2eeac4b7b5b9c50100f3e371e157e8/README.md)
 ---
 
 ## License
